@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Movement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="165" Column="3" />
+      <File FileName="Assets\Scripts\GridTerrainConnection.cs" Line="8" Column="27" />
+      <File FileName="Assets\Scripts\Movement.cs" Line="15" Column="54" />
+      <File FileName="Assets\Scripts\GridTerrain.cs" Line="19" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
